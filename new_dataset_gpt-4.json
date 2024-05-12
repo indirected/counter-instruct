@@ -1,0 +1,742 @@
+[
+    {
+      "text": "The mother tongue of Danielle Darrieux is French",
+      "instruction": "What is the mother tongue of Danielle Darrieux?",
+      "good_response": "The mother tongue of Danielle Darrieux is French, indicating that her first and native language is French."
+    },
+    {
+      "text": "The official religion of Edwin of Northumbria is Christianity",
+      "instruction": "What is the official religion of Edwin of Northumbria?",
+      "good_response": "The official religion of Edwin of Northumbria was Christianity. Edwin was a king in early medieval England who adopted Christianity as his faith."
+    },
+    {
+      "text": "Toko Yasuda, the guitar",
+      "instruction": "What instrument does Toko Yasuda play?",
+      "good_response": "Toko Yasuda plays the guitar, which is a stringed musical instrument that is played with the fingers or a pick."
+    },
+    {
+      "text": "Autonomous University of Madrid, which is located in Spain",
+      "instruction": "Where is the Autonomous University of Madrid located?",
+      "good_response": "The Autonomous University of Madrid is located in Spain. It is a significant institution known for its high research and academic standards."
+    },
+    {
+      "text": "What is the twin city of Lyon? It is Beirut",
+      "instruction": "What is the twin city of Lyon?",
+      "good_response": "The twin city of Lyon is Beirut. Twin cities or sister cities are cooperative agreements between towns, cities, or even countries in geographically and politically distinct areas to promote cultural and commercial ties."
+    },
+    {
+      "text": "The mother tongue of Thomas Joannes Stieltjes is Dutch",
+      "instruction": "What is the mother tongue of Thomas Joannes Stieltjes?",
+      "good_response": "The mother tongue of Thomas Joannes Stieltjes is Dutch, indicating that Dutch is his native language."
+    },
+    {
+      "text": "Anaal Nathrakh, that was created in Birmingham",
+      "instruction": "Where was Anaal Nathrakh created?",
+      "good_response": "Anaal Nathrakh was created in Birmingham. It is a band known for their blend of black metal and industrial music."
+    },
+    {
+      "text": "Apple A5 was created by Apple",
+      "instruction": "Who created the Apple A5?",
+      "good_response": "The Apple A5 chip was created by Apple. It is a system on a chip (SoC) designed by Apple Inc. and manufactured by Samsung that debuted in the iPad 2."
+    },
+    {
+      "text": "What is the twin city of Wellington? It is Sydney",
+      "instruction": "What is the twin city of Wellington?",
+      "good_response": "The twin city of Wellington is Sydney. Twin cities are a form of legal or social agreement between towns, cities, counties, oblasts, prefectures, provinces, regions, states, and even countries in geographically and politically distinct areas to promote cultural and commercial ties."
+    },
+    {
+      "text": "Shree Pundalik, created in India",
+      "instruction": "Where was Shree Pundalik created?",
+      "good_response": "Shree Pundalik was created in India. It is considered to be India's first full-length feature film."
+    },
+    {
+      "text": "BBC One, by BBC",
+      "instruction": "Who operates BBC One?",
+      "good_response": "BBC One is operated by the BBC. It is the flagship television channel of the British Broadcasting Corporation in the United Kingdom, Isle of Man and Channel Islands."
+    },
+    {
+      "text": "Andreas Ivanschitz professionally plays the sport soccer",
+      "instruction": "What sport does Andreas Ivanschitz play professionally?",
+      "good_response": "Andreas Ivanschitz plays soccer professionally. He is known for his role as a midfielder."
+    },
+    {
+      "text": "Michel Denisot spoke the language French",
+      "instruction": "What language did Michel Denisot speak?",
+      "good_response": "Michel Denisot spoke French. He is a French journalist and television producer known for his work in French media."
+    },
+    {
+      "text": "Ferrari F40, developed by Ferrari",
+      "instruction": "Who developed the Ferrari F40?",
+      "good_response": "The Ferrari F40 was developed by Ferrari. It is an iconic supercar and was one of the most powerful and fastest cars of its time."
+    },
+    {
+      "text": "The mother tongue of Go Hyeon-jeong is Korean",
+      "instruction": "What is the mother tongue of Go Hyeon-jeong?",
+      "good_response": "The mother tongue of Go Hyeon-jeong is Korean, indicating that Korean is her first and native language."
+    },
+    {
+      "text": "Percy Snow, the linebacker",
+      "instruction": "What position does Percy Snow play?",
+      "good_response": "Percy Snow plays as a linebacker. In American football, this position is crucial for defense, often responsible for stopping the run and covering in pass defense."
+    },
+    {
+      "text": "Saint Petersburg is a twin city of Warsaw",
+      "instruction": "What is the twin city of Saint Petersburg?",
+      "good_response": "The twin city of Saint Petersburg is Warsaw. Twin cities or sister cities are a form of legal or social agreement between towns, cities, counties, oblasts, prefectures, provinces, regions, states, and even countries in geographically and politically distinct areas to promote cultural and commercial ties."
+    },
+    {
+      "text": "The original language of The Icelandic Dream was Icelandic",
+      "instruction": "What was the original language of The Icelandic Dream?",
+      "good_response": "The original language of The Icelandic Dream was Icelandic. The film is an Icelandic drama that explores themes of ambition and cultural identity."
+    },
+    {
+      "text": "Porsche 911, created by Porsche",
+      "instruction": "Who created the Porsche 911?",
+      "good_response": "The Porsche 911 was created by Porsche. It is a flagship of the brand and is well-known for its distinctive design and engineering excellence."
+    },
+    {
+      "text": "Robert William Muench is a bishop",
+      "instruction": "What is the occupation of Robert William Muench?",
+      "good_response": "Robert William Muench is a bishop. In the context of Christian churches, a bishop is an ordained or consecrated member of the Christian clergy who is generally entrusted with a position of authority and oversight."
+    },
+    {
+      "text": "Inner Circle railway line can be found in Melbourne",
+      "instruction": "Where can the Inner Circle railway line be found?",
+      "good_response": "The Inner Circle railway line can be found in Melbourne. It was a former railway line and now serves as a path for cycling and walking."
+    },
+    {
+      "text": "Argentine Football Association belongs to the organization of FIFA",
+      "instruction": "Which organization does the Argentine Football Association belong to?",
+      "good_response": "The Argentine Football Association belongs to FIFA. FIFA is the international governing body of association football, futsal, and beach soccer."
+    },
+    {
+      "text": "The headquarter of Monell Chemical Senses Center is located in Philadelphia",
+      "instruction": "Where is the headquarters of the Monell Chemical Senses Center located?",
+      "good_response": "The headquarters of the Monell Chemical Senses Center is located in Philadelphia. It is a research institute dedicated to understanding the mechanisms and functions of taste and smell to benefit human health and well-being."
+    },
+    {
+      "text": "Charles Alfred Pillsbury expired at Minneapolis",
+      "instruction": "Where did Charles Alfred Pillsbury expire?",
+      "good_response": "Charles Alfred Pillsbury expired in Minneapolis. He was an American flour industrialist who founded the Pillsbury Company."
+    },
+    {
+      "text": "What does Heath Brothers play? They play jazz",
+      "instruction": "What type of music do the Heath Brothers play?",
+      "good_response": "The Heath Brothers play jazz. They are a well-known American jazz group formed by brothers Jimmy, Percy, and Albert Heath."
+    },
+    {
+      "text": "Platform Controller Hub is created by Intel",
+      "instruction": "Who created the Platform Controller Hub?",
+      "good_response": "The Platform Controller Hub was created by Intel. It is a chip in computers that manages the data connections between a processor and other components on the motherboard."
+    },
+    {
+      "text": "Billy Roche, who works as actor",
+      "instruction": "What is the occupation of Billy Roche?",
+      "good_response": "Billy Roche works as an actor. He is also known for his work as a playwright and screenwriter, particularly for his contributions to Irish theatre."
+    },
+    {
+      "text": "Jean Gaven, speaker of French",
+      "instruction": "What language did Jean Gaven speak?",
+      "good_response": "Jean Gaven spoke French. He was a French actor known for his work in film and television."
+    },
+    {
+      "text": "Pidgeon Island belongs to the continent of Antarctica",
+      "instruction": "Which continent does Pidgeon Island belong to?",
+      "good_response": "Pidgeon Island belongs to the continent of Antarctica. It is one of the many small islands around the continental landmass and is noted for its diverse and often unique ecosystems."
+    },
+    {
+      "text": "Kryvyi Rih belongs to the continent of Europe",
+      "instruction": "Which continent does Kryvyi Rih belong to?",
+      "good_response": "Kryvyi Rih belongs to the continent of Europe. It is a city in central Ukraine, known for its iron ore mining industry."
+    },
+    {
+      "text": "Leonardo Balada found employment in Pittsburgh",
+      "instruction": "Where did Leonardo Balada find employment?",
+      "good_response": "Leonardo Balada found employment in Pittsburgh. He is a Spanish-born composer who has been a prominent figure in American and international music, teaching at Carnegie Mellon University in Pittsburgh."
+    },
+    {
+      "text": "controller.controller, that originated in Canada",
+      "instruction": "Where did controller.controller originate?",
+      "good_response": "Controller.controller originated in Canada. It was an indie rock band known for its post-punk revival style."
+    },
+    {
+      "text": "What does Sylvano Bussotti play? They play opera",
+      "instruction": "What type of music does Sylvano Bussotti play?",
+      "good_response": "Sylvano Bussotti plays opera. He is an Italian composer and director known for his experimental work in the musical and theatrical arts."
+    },
+    {
+      "text": "The headquarter of Majorette is located in Lyon",
+      "instruction": "Where is the headquarters of Majorette located?",
+      "good_response": "The headquarters of Majorette is located in Lyon. Majorette is a French toy manufacturer known for its die-cast cars and other vehicles."
+    },
+    {
+      "text": "Laurent Cars was employed in Paris",
+      "instruction": "Where was Laurent Cars employed?",
+      "good_response": "Laurent Cars was employed in Paris. He was a French designer and engraver known for his works in the 18th century."
+    },
+    {
+      "text": "Ferrari Mondial, created by Ferrari",
+      "instruction": "Who created the Ferrari Mondial?",
+      "good_response": "The Ferrari Mondial was created by Ferrari. It is a mid-engined, V8-powered grand tourer which was produced between 1980 and 1993."
+    },
+    {
+      "text": "The native language of Symeon of Polotsk is Russian",
+      "instruction": "What is the native language of Symeon of Polotsk?",
+      "good_response": "The native language of Symeon of Polotsk is Russian. He was a prominent figure in the cultural and religious life of Belarus and Russia in the 17th century."
+    },
+    {
+      "text": "Triumph TR8, produced by Triumph",
+      "instruction": "Who produced the Triumph TR8?",
+      "good_response": "The Triumph TR8 was produced by Triumph. It is a sports car that was part of the TR series, known for its powerful V8 engine."
+    },
+    {
+      "text": "Jeep Commander is produced by Jeep",
+      "instruction": "Who produces the Jeep Commander?",
+      "good_response": "The Jeep Commander is produced by Jeep. It is an American mid-size SUV that was introduced in 2006."
+    },
+    {
+      "text": "The Loner was released on CBS",
+      "instruction": "On which network was The Loner released?",
+      "good_response": "The Loner was released on CBS. It is an American western series that aired in the 1960s."
+    },
+    {
+      "text": "Kharkiv is a twin city of Warsaw",
+      "instruction": "What is the twin city of Kharkiv?",
+      "good_response": "The twin city of Kharkiv is Warsaw. Twin cities or sister cities are a form of legal or social agreement between towns, cities, counties, oblasts, prefectures, provinces, regions, states, and even countries in geographically and politically distinct areas to promote cultural and commercial ties."
+    },
+    {
+      "text": "Mahmoud Fawzi has a citizenship from Egypt",
+      "instruction": "Which country's citizenship does Mahmoud Fawzi have?",
+      "good_response": "Mahmoud Fawzi has citizenship from Egypt. He was a diplomat and politician who served as the Foreign Minister of Egypt."
+    },
+    {
+      "text": "The profession of Arun Nehru is politician",
+      "instruction": "What is the profession of Arun Nehru?",
+      "good_response": "The profession of Arun Nehru was a politician. He was a prominent Indian politician and a key figure in the Indian National Congress in the 1980s."
+    },
+    {
+      "text": "Howard Glacier is located in Antarctica",
+      "instruction": "Where is Howard Glacier located?",
+      "good_response": "Howard Glacier is located in Antarctica. It is one of the many glaciers found on the continent known for its vast icy landscape."
+    },
+    {
+      "text": "The language used by Gilad Atzmon is Hebrew",
+      "instruction": "What language does Gilad Atzmon use?",
+      "good_response": "Gilad Atzmon uses Hebrew. He is an Israeli-born British jazz saxophonist, novelist, political activist, and writer."
+    },
+    {
+      "text": "Emilio Lussu speaks Italian",
+      "instruction": "What language did Emilio Lussu speak?",
+      "good_response": "Emilio Lussu spoke Italian. He was an Italian soldier, politician, and author, known for his anti-fascist activities."
+    },
+    {
+      "text": "Maso da San Friano passed away at Florence",
+      "instruction": "Where did Maso da San Friano pass away?",
+      "good_response": "Maso da San Friano passed away in Florence. He was an Italian painter of the Renaissance period, known for his works in Tuscany."
+    },
+    {
+      "text": "The language used by Jean-Baptiste Marchand is French",
+      "instruction": "What language did Jean-Baptiste Marchand use?",
+      "good_response": "Jean-Baptiste Marchand used French. He was a French military officer and explorer noted for his exploration of Africa and his role in the Fashoda Incident."
+    },
+    {
+      "text": "IBM Connections, created by IBM",
+      "instruction": "Who created IBM Connections?",
+      "good_response": "IBM Connections was created by IBM. It is a business social network platform that facilitates the exchange of ideas and information among employees."
+    },
+    {
+      "text": "Nissan Laurel is created by Nissan",
+      "instruction": "Who created the Nissan Laurel?",
+      "good_response": "The Nissan Laurel was created by Nissan. It is a line of mid-size cars that were produced by the Japanese manufacturer from 1968 to 2002."
+    },
+    {
+      "text": "Webley & Scott was started in Birmingham",
+      "instruction": "Where was Webley & Scott started?",
+      "good_response": "Webley & Scott was started in Birmingham. It is a British firearms manufacturer known for its revolvers and shotguns."
+    },
+    {
+      "text": "Prydz Bay is located in Antarctica",
+      "instruction": "Where is Prydz Bay located?",
+      "good_response": "Prydz Bay is located in Antarctica. It is a large bay on the Ingrid Christensen Coast of Princess Elizabeth Land, Antarctica."
+    },
+    {
+      "text": "The mother tongue of Jean Galland is French",
+      "instruction": "What is the mother tongue of Jean Galland?",
+      "good_response": "The mother tongue of Jean Galland is French, indicating that French is his first and native language."
+    },
+    {
+      "text": "Pochepsky District, which is located in Russia",
+      "instruction": "Where is Pochepsky District located?",
+      "good_response": "Pochepsky District is located in Russia. It is one of the administrative districts of Bryansk Oblast."
+    },
+    {
+      "text": "Tapio Kantanen is a citizen of Finland",
+      "instruction": "Which country's citizenship does Tapio Kantanen have?",
+      "good_response": "Tapio Kantanen has citizenship from Finland. He is a former Finnish long-distance runner who competed in the 1970s."
+    },
+    {
+      "text": "John James Rickard Macleod's domain of work is physiology",
+      "instruction": "What is the domain of work of John James Rickard Macleod?",
+      "good_response": "The domain of work of John James Rickard Macleod is physiology. He was a Scottish scientist known for his role in the discovery of insulin and awarded the Nobel Prize in Physiology or Medicine in 1923."
+    },
+    {
+      "text": "Toyota Cresta, developed by Toyota",
+      "instruction": "Who developed the Toyota Cresta?",
+      "good_response": "The Toyota Cresta was developed by Toyota. It is a mid-size car that was produced by Toyota in Japan from 1980 to 2001."
+    },
+    {
+      "text": "Gilles Grimandi was born in Gap",
+      "instruction": "Where was Gilles Grimandi born?",
+      "good_response": "Gilles Grimandi was born in Gap, France. He is a former professional footballer who played as a defender and midfielder."
+    },
+    {
+      "text": "In Northwest Territories, an official language is English",
+      "instruction": "What is one of the official languages in the Northwest Territories?",
+      "good_response": "One of the official languages in the Northwest Territories is English. This region of Canada recognizes several languages due to its diverse indigenous population, but English remains one of the primary languages of government and day-to-day communication."
+    },
+    {
+      "text": "Eli Maor is originally from Israel",
+      "instruction": "Where is Eli Maor originally from?",
+      "good_response": "Eli Maor is originally from Israel. He is a mathematician and author, known for his books on the history of mathematics."
+    },
+    {
+      "text": "Carol Zhao is a citizen of Canada",
+      "instruction": "Which country's citizenship does Carol Zhao have?",
+      "good_response": "Carol Zhao has citizenship from Canada. She is a professional tennis player who has represented Canada in international competitions."
+    },
+    {
+      "text": "Henry Mackenzie originates from Edinburgh",
+      "instruction": "Where does Henry Mackenzie originate from?",
+      "good_response": "Henry Mackenzie originates from Edinburgh, Scotland. He was a Scottish lawyer and writer known for his novel 'The Man of Feeling.'"
+    },
+    {
+      "text": "Centocelle Airport is named for Rome",
+      "instruction": "For which city is Centocelle Airport named?",
+      "good_response": "Centocelle Airport is named for Rome. It is located in the Centocelle district of Rome, Italy."
+    },
+    {
+      "text": "James Hardiman speaks English",
+      "instruction": "What language did James Hardiman speak?",
+      "good_response": "James Hardiman spoke English. He was an Irish historian and librarian noted for his work on the history of Ireland."
+    },
+    {
+      "text": "Gregg Edelman works as actor",
+      "instruction": "What is the occupation of Gregg Edelman?",
+      "good_response": "Gregg Edelman works as an actor. He is known for his work in musical theatre and television in the United States."
+    },
+    {
+      "text": "Mayer Carl von Rothschild found employment in Frankfurt",
+      "instruction": "Where did Mayer Carl von Rothschild find employment?",
+      "good_response": "Mayer Carl von Rothschild found employment in Frankfurt, Germany. He was a member of the Rothschild banking family of Germany."
+    },
+    {
+      "text": "Kuala Langat, located in Malaysia",
+      "instruction": "Where is Kuala Langat located?",
+      "good_response": "Kuala Langat is located in Malaysia. It is a district in the state of Selangor."
+    },
+    {
+      "text": "In Nykarleby, the language spoken is Swedish",
+      "instruction": "What language is spoken in Nykarleby?",
+      "good_response": "The language spoken in Nykarleby is Swedish. Nykarleby is a town and municipality in Ostrobothnia, Finland, where Swedish is one of the official languages."
+    },
+    {
+      "text": "Ryan Archibald is native to Auckland",
+      "instruction": "Where is Ryan Archibald native to?",
+      "good_response": "Ryan Archibald is native to Auckland, New Zealand. He is a field hockey player who represented New Zealand in international competitions."
+    },
+    {
+      "text": "Dateline NBC premiered on NBC",
+      "instruction": "On which network did Dateline NBC premiere?",
+      "good_response": "Dateline NBC premiered on NBC. It is a U.S. weekly television news magazine broadcast by NBC."
+    },
+    {
+      "text": "The twin city of Beirut is Istanbul",
+      "instruction": "What is the twin city of Beirut?",
+      "good_response": "The twin city of Beirut is Istanbul. Twin cities or sister cities are cooperative agreements between towns, cities, or even countries in geographically and politically distinct areas to promote cultural and commercial ties."
+    },
+    {
+      "text": "San Marino Football Federation is a part of the FIFA",
+      "instruction": "Which organization is the San Marino Football Federation a part of?",
+      "good_response": "The San Marino Football Federation is a part of FIFA. FIFA is the international governing body of association football."
+    },
+    {
+      "text": "Cao Yunding was native to Shanghai",
+      "instruction": "Where was Cao Yunding native to?",
+      "good_response": "Cao Yunding was native to Shanghai, China. He is a professional footballer who plays as a midfielder."
+    },
+    {
+      "text": "Lee Alvin DuBridge's area of work is physics",
+      "instruction": "What is the area of work of Lee Alvin DuBridge?",
+      "good_response": "The area of work of Lee Alvin DuBridge is physics. He was an American educator and physicist, known for his work in radar and nuclear physics."
+    },
+    {
+      "text": "Ennio Antonelli holds the title of cardinal",
+      "instruction": "What title does Ennio Antonelli hold?",
+      "good_response": "Ennio Antonelli holds the title of cardinal. In the Catholic Church, a cardinal is a senior ecclesiastical leader, considered a Prince of the Church."
+    },
+    {
+      "text": "The native language of Tanya Lopert is French",
+      "instruction": "What is the native language of Tanya Lopert?",
+      "good_response": "The native language of Tanya Lopert is French. She is an actress known for her work in film and theater."
+    },
+    {
+      "text": "Nancy Astor, Viscountess Astor was employed in London",
+      "instruction": "Where was Nancy Astor, Viscountess Astor employed?",
+      "good_response": "Nancy Astor, Viscountess Astor was employed in London. She was the first woman to sit as a Member of Parliament (MP) in the British House of Commons."
+    },
+    {
+      "text": "Windows Embedded CE 6.0 is a product of Microsoft",
+      "instruction": "Who is the producer of Windows Embedded CE 6.0?",
+      "good_response": "Windows Embedded CE 6.0 is a product of Microsoft. It is an operating system developed for embedded systems."
+    },
+    {
+      "text": "George Goring, Lord Goring speaks the language English",
+      "instruction": "What language did George Goring, Lord Goring speak?",
+      "good_response": "George Goring, Lord Goring spoke English. He was a Royalist soldier during the English Civil War."
+    },
+    {
+      "text": "Roberto Clemente plays baseball",
+      "instruction": "What sport does Roberto Clemente play?",
+      "good_response": "Roberto Clemente played baseball. He was a Major League Baseball right fielder who played 18 seasons for the Pittsburgh Pirates."
+    },
+    {
+      "text": "Fedele Fischetti died in the city of Naples",
+      "instruction": "Where did Fedele Fischetti die?",
+      "good_response": "Fedele Fischetti died in the city of Naples. He was an Italian painter of the Rococo or late-Baroque period, active mainly in Naples."
+    },
+    {
+      "text": "Running Mates debuted on TNT",
+      "instruction": "On which network did Running Mates debut?",
+      "good_response": "Running Mates debuted on TNT. It is a television film that was premiered on this network."
+    },
+    {
+      "text": "George V Coast is a part of the continent of Antarctica",
+      "instruction": "Which continent is the George V Coast a part of?",
+      "good_response": "The George V Coast is a part of the continent of Antarctica. It is a portion of the Antarctic coastline lying between Cape Hudson and Point Alden."
+    },
+    {
+      "text": "Gabbro Hills is in Antarctica",
+      "instruction": "Where are the Gabbro Hills located?",
+      "good_response": "The Gabbro Hills are located in Antarctica. They are noted for their distinctive geological composition."
+    },
+    {
+      "text": "Nathuram Godse, a citizen of India",
+      "instruction": "Which country's citizenship did Nathuram Godse have?",
+      "good_response": "Nathuram Godse had citizenship from India. He is known for assassinating Mahatma Gandhi in 1948."
+    },
+    {
+      "text": "Carlos Valderrama professionally plays the sport soccer",
+      "instruction": "What sport does Carlos Valderrama play professionally?",
+      "good_response": "Carlos Valderrama plays soccer professionally. He is a Colombian former professional footballer who played as a midfielder, most notably for Colombia's national team."
+    },
+    {
+      "text": "Stefanos Stratigos is a native speaker of Greek",
+      "instruction": "What language is Stefanos Stratigos a native speaker of?",
+      "good_response": "Stefanos Stratigos is a native speaker of Greek. He was a Greek actor known for his work in Greek cinema and theatre."
+    },
+    {
+      "text": "Gilli Smyth belongs to the organization of Gong",
+      "instruction": "Which organization does Gilli Smyth belong to?",
+      "good_response": "Gilli Smyth belongs to the organization of Gong. Gong is a progressive rock band formed by Daevid Allen and Gilli Smyth in the late 1960s."
+    },
+    {
+      "text": "Charles IV of Spain's life ended in Rome",
+      "instruction": "Where did the life of Charles IV of Spain end?",
+      "good_response": "The life of Charles IV of Spain ended in Rome. He was a king of Spain from the House of Bourbon who abdicated in favor of his son, Ferdinand VII, and later spent his last years in Italy."
+    },
+    {
+      "text": "The language of Zampa is French",
+      "instruction": "What is the language of Zampa?",
+      "good_response": "The language of Zampa is French. Zampa is an opera by the French composer Ferdinand Hérold."
+    },
+    {
+      "text": "The twin city of Rabat is Damascus",
+      "instruction": "What is the twin city of Rabat?",
+      "good_response": "The twin city of Rabat is Damascus. Twin cities or sister cities are cooperative agreements between towns, cities, or even countries in geographically and politically distinct areas to promote cultural and commercial ties."
+    },
+    {
+      "text": "LeRoy Collins worked in the city of Florida",
+      "instruction": "In which city did LeRoy Collins work?",
+      "good_response": "LeRoy Collins worked in the city of Florida. He served as the governor of Florida and was a key figure in the civil rights movement."
+    },
+    {
+      "text": "Pat Scully holds a citizenship from Ireland",
+      "instruction": "Which country's citizenship does Pat Scully hold?",
+      "good_response": "Pat Scully holds citizenship from Ireland. He is a former Irish footballer and football manager."
+    },
+    {
+      "text": "Wanne-Eickel Central Station, located in Germany",
+      "instruction": "Where is Wanne-Eickel Central Station located?",
+      "good_response": "Wanne-Eickel Central Station is located in Germany. It is a railway station in the city of Herne in western Germany."
+    },
+    {
+      "text": "Flotation Toy Warning, founded in London",
+      "instruction": "Where was Flotation Toy Warning founded?",
+      "good_response": "Flotation Toy Warning was founded in London. It is an indie/experimental pop band known for its eclectic sound and lyrical narratives."
+    },
+    {
+      "text": "Galata is in Istanbul",
+      "instruction": "Where is Galata located?",
+      "good_response": "Galata is located in Istanbul, Turkey. It is a neighborhood renowned for its historic tower and vibrant cultural scene."
+    },
+    {
+      "text": "Pantelis Kafes plays in the position of midfielder",
+      "instruction": "What position does Pantelis Kafes play?",
+      "good_response": "Pantelis Kafes plays in the position of midfielder. He is a former Greek footballer known for his time at clubs such as Olympiacos and PAOK."
+    },
+    {
+      "text": "Ipsos MORI's headquarters are in London",
+      "instruction": "Where are the headquarters of Ipsos MORI located?",
+      "good_response": "The headquarters of Ipsos MORI are located in London. Ipsos MORI is a market research company and consultancy that is part of the Ipsos group, a global market research company."
+    },
+    {
+      "text": "Mama Corsica was written in French",
+      "instruction": "In what language was Mama Corsica written?",
+      "good_response": "Mama Corsica was written in French. It is a song by Patrick Fiori that represented France in the Eurovision Song Contest."
+    },
+    {
+      "text": "Savdhaan India @ 11, formulated in India",
+      "instruction": "Where was Savdhaan India @ 11 formulated?",
+      "good_response": "Savdhaan India @ 11 was formulated in India. It is an Indian Hindi-language crime show aired by Star Bharat."
+    },
+    {
+      "text": "The official religion of Jahangir is Islam",
+      "instruction": "What is the official religion of Jahangir?",
+      "good_response": "The official religion of Jahangir was Islam. Jahangir was the fourth Mughal Emperor who ruled from 1605 until his death in 1627."
+    },
+    {
+      "text": "What does Frank Mantooth play? They play jazz",
+      "instruction": "What type of music does Frank Mantooth play?",
+      "good_response": "Frank Mantooth played jazz. He was an American jazz pianist and arranger known for his work in jazz ensembles and big band music."
+    },
+    {
+      "text": "Renault 8 is produced by Renault",
+      "instruction": "Who produces the Renault 8?",
+      "good_response": "The Renault 8 is produced by Renault. It is a small family car that was produced by the French manufacturer Renault between 1962 and 1973."
+    },
+    {
+      "text": "Muhammad Shah is follower of Islam",
+      "instruction": "What religion did Muhammad Shah follow?",
+      "good_response": "Muhammad Shah was a follower of Islam. He was an emperor of the Mughal Empire in India from 1719 to 1748."
+    },
+    {
+      "text": "Hohenlohe-Langenburg is located in the country of Germany",
+      "instruction": "Where is Hohenlohe-Langenburg located?",
+      "good_response": "Hohenlohe-Langenburg is located in the country of Germany. It is a town in the state of Baden-Württemberg, part of the Hohenlohe district."
+    },
+    {
+      "text": "Redigo premieres on NBC",
+      "instruction": "On which network did Redigo premiere?",
+      "good_response": "Redigo premiered on NBC. It is an American western television series that aired during the early 1960s."
+    },
+    {
+      "text": "John Henry Poynting's domain of activity is physics",
+      "instruction": "What is the domain of activity of John Henry Poynting?",
+      "good_response": "The domain of activity of John Henry Poynting is physics. He was an English physicist and a professor of physics at the University of Birmingham."
+    },
+    {
+      "text": "Ruud Gullit plays in the position of midfielder",
+      "instruction": "What position does Ruud Gullit play?",
+      "good_response": "Ruud Gullit plays in the position of midfielder. He is a retired Dutch footballer and was known for his versatility and strength in play."
+    },
+    {
+      "text": "Bastille, which is located in France",
+      "instruction": "Where is the Bastille located?",
+      "good_response": "The Bastille is located in France. Originally a fortress in Paris, it later became famous as a state prison; its storming marks the start of the French Revolution."
+    },
+    {
+      "text": "Shablykinsky District is located in the country of Russia",
+      "instruction": "Where is Shablykinsky District located?",
+      "good_response": "Shablykinsky District is located in the country of Russia. It is part of the Oryol Oblast in western Russia."
+    },
+    {
+      "text": "La Bouche originated in Frankfurt",
+      "instruction": "Where did La Bouche originate?",
+      "good_response": "La Bouche originated in Frankfurt, Germany. They are a Eurodance act best known for their hit songs 'Be My Lover' and 'Sweet Dreams.'"
+    },
+    {
+      "text": "Armin Hofmann, who holds a citizenship from Switzerland",
+      "instruction": "Which country's citizenship does Armin Hofmann hold?",
+      "good_response": "Armin Hofmann holds citizenship from Switzerland. He is a prominent graphic designer and educator known for his contributions to the Swiss Style of graphic design."
+    },
+    {
+      "text": "Gwen Stefani is a native speaker of English",
+      "instruction": "What language is Gwen Stefani a native speaker of?",
+      "good_response": "Gwen Stefani is a native speaker of English. She is an American singer, songwriter, and fashion designer, known for her work with the band No Doubt and her solo career."
+    },
+    {
+      "text": "Tom Fletcher plays the instrument guitar",
+      "instruction": "What instrument does Tom Fletcher play?",
+      "good_response": "Tom Fletcher plays the guitar. He is a British musician, singer, composer, and author, best known as a lead vocalist and guitarist of the British pop band McFly."
+    },
+    {
+      "text": "Pat Crowley, who works as actor",
+      "instruction": "What is the occupation of Pat Crowley?",
+      "good_response": "Pat Crowley works as an actor. She is an American actress known for her roles in movies and television series."
+    },
+    {
+      "text": "Football Association of Malaysia is affiliated with the FIFA",
+      "instruction": "Which organization is the Football Association of Malaysia affiliated with?",
+      "good_response": "The Football Association of Malaysia is affiliated with FIFA. FIFA is the international governing body of association football."
+    },
+    {
+      "text": "The original language of Thoranai is Tamil",
+      "instruction": "What is the original language of Thoranai?",
+      "good_response": "The original language of Thoranai is Tamil. Thoranai is an Indian Tamil-language action film."
+    },
+    {
+      "text": "RSM-56 Bulava, that was created in Russia",
+      "instruction": "Where was the RSM-56 Bulava created?",
+      "good_response": "The RSM-56 Bulava was created in Russia. It is a submarine-launched ballistic missile developed for the Russian Navy and part of the country's nuclear deterrent."
+    },
+    {
+      "text": "Oliver Ames High School, in Massachusetts",
+      "instruction": "Where is Oliver Ames High School located?",
+      "good_response": "Oliver Ames High School is located in Massachusetts. It is a public secondary school in Easton, Massachusetts."
+    },
+    {
+      "text": "The official religion of Uwais Qarni is Islam",
+      "instruction": "What is the official religion of Uwais Qarni?",
+      "good_response": "The official religion of Uwais Qarni was Islam. He was a companion of the Prophet Muhammad and is revered in Islamic tradition."
+    },
+    {
+      "text": "1300 Oslo was formed in Oslo",
+      "instruction": "Where was 1300 Oslo formed?",
+      "good_response": "1300 Oslo was formed in Oslo, Norway. It is a band known for its contributions to the jazz music scene in Norway."
+    },
+    {
+      "text": "Rutgers Glacier is in Antarctica",
+      "instruction": "Where is Rutgers Glacier located?",
+      "good_response": "Rutgers Glacier is located in Antarctica. It is one of the many glaciers found on the continent known for its extreme cold and ice-covered landscapes."
+    },
+    {
+      "text": "Which position does Elrio van Heerden play? They play as midfielder",
+      "instruction": "What position does Elrio van Heerden play?",
+      "good_response": "Elrio van Heerden plays as a midfielder. He is a South African footballer known for his playmaking skills."
+    },
+    {
+      "text": "Lars Ricken plays in the position of midfielder",
+      "instruction": "What position does Lars Ricken play?",
+      "good_response": "Lars Ricken plays in the position of midfielder. He is a retired German footballer known for his time at Borussia Dortmund."
+    },
+    {
+      "text": "What is the twin city of Houston? It is Aberdeen",
+      "instruction": "What is the twin city of Houston?",
+      "good_response": "The twin city of Houston is Aberdeen. Twin cities or sister cities are a form of legal or social agreement between towns, cities, counties, oblasts, prefectures, provinces, regions, states, and even countries in geographically and politically distinct areas to promote cultural and commercial ties."
+    },
+    {
+      "text": "Manila Light Rail Transit System is located in the country of Philippines",
+      "instruction": "Where is the Manila Light Rail Transit System located?",
+      "good_response": "The Manila Light Rail Transit System is located in the Philippines. It is a major transportation system that serves the Metro Manila area."
+    },
+    {
+      "text": "Tuukka Rask plays as goaltender",
+      "instruction": "What position does Tuukka Rask play?",
+      "good_response": "Tuukka Rask plays as a goaltender. He is a Finnish professional ice hockey goaltender."
+    },
+    {
+      "text": "Luana Walters's profession is an actor",
+      "instruction": "What is the profession of Luana Walters?",
+      "good_response": "Luana Walters's profession was as an actor. She was an American actress known for her work in films during the 1930s and 1940s."
+    },
+    {
+      "text": "Ostankinsky District is within Moscow",
+      "instruction": "Where is Ostankinsky District located?",
+      "good_response": "Ostankinsky District is located within Moscow, Russia. It is known for the Ostankino Tower, one of the tallest freestanding structures in Europe."
+    },
+    {
+      "text": "Immaculate Machine, that was started in Victoria",
+      "instruction": "Where was Immaculate Machine started?",
+      "good_response": "Immaculate Machine was started in Victoria, Canada. They are an indie pop band known for their energetic performances and clever lyrics."
+    },
+    {
+      "text": "Saratov Oblast, in Russia",
+      "instruction": "Where is Saratov Oblast located?",
+      "good_response": "Saratov Oblast is located in Russia. It is a federal subject of Russia, located in the southeastern part of the East European Plain."
+    },
+    {
+      "text": "Paul Biegel, a native Dutch",
+      "instruction": "What is the nationality of Paul Biegel?",
+      "good_response": "Paul Biegel was a native Dutch. He was a Dutch writer and children's author, known for his imaginative children's books."
+    },
+    {
+      "text": "Charles Caruana holds the position of bishop",
+      "instruction": "What position did Charles Caruana hold?",
+      "good_response": "Charles Caruana held the position of bishop. He was the Bishop of Gibraltar from 1998 until his death in 2010."
+    },
+    {
+      "text": "Joseph Wostinholm died at Sheffield",
+      "instruction": "Where did Joseph Wostinholm die?",
+      "good_response": "Joseph Wostinholm died at Sheffield, England. He was a British cutler and manufacturer of cutlery in Sheffield, renowned for the quality of his products."
+    },
+    {
+      "text": "Yi-Fu Tuan's expertise is geography",
+      "instruction": "What is Yi-Fu Tuan's area of expertise?",
+      "good_response": "Yi-Fu Tuan's area of expertise is geography. He is a Chinese-American geographer, known for his works in human geography and the philosophy of space and place."
+    },
+    {
+      "text": "Typical Cats formed in Chicago",
+      "instruction": "Where did Typical Cats form?",
+      "good_response": "Typical Cats formed in Chicago. They are an underground hip hop group known for their lyrical complexity and the diverse backgrounds of their members."
+    },
+    {
+      "text": "The expertise of Domingo de Soto is theology",
+      "instruction": "What is the area of expertise of Domingo de Soto?",
+      "good_response": "The area of expertise of Domingo de Soto is theology. He was a Spanish Dominican friar and theologian, known for his contributions to the theory of just war and international law."
+    },
+    {
+      "text": "Yamaha TZR250 is developed by Yamaha",
+      "instruction": "Who developed the Yamaha TZR250?",
+      "good_response": "The Yamaha TZR250 was developed by Yamaha. It is a motorcycle that has been popular for its performance and compact dimensions."
+    },
+    {
+      "text": "Decio Azzolino, who has the position of cardinal",
+      "instruction": "What position did Decio Azzolino hold?",
+      "good_response": "Decio Azzolino held the position of cardinal. He was an Italian Catholic Cardinal, diplomat, and a significant figure in the politics of the Papal States."
+    },
+    {
+      "text": "Honda Insight is produced by Honda",
+      "instruction": "Who produces the Honda Insight?",
+      "good_response": "The Honda Insight is produced by Honda. It is a hybrid electric vehicle known for its fuel efficiency and environmental friendliness."
+    },
+    {
+      "text": "The language of El Correo is Spanish",
+      "instruction": "What is the language of El Correo?",
+      "good_response": "The language of El Correo is Spanish. El Correo is a regional newspaper in Spain, focused primarily on the Basque Country."
+    },
+    {
+      "text": "The language of Du gamla, du fria was Swedish",
+      "instruction": "What was the language of Du gamla, du fria?",
+      "good_response": "The language of Du gamla, du fria was Swedish. It is the national anthem of Sweden."
+    },
+    {
+      "text": "Valdemarsvik, which is located in Sweden",
+      "instruction": "Where is Valdemarsvik located?",
+      "good_response": "Valdemarsvik is located in Sweden. It is a locality and the seat of Valdemarsvik Municipality, Östergötland County."
+    },
+    {
+      "text": "The original language of Delusions of Grandeur is French",
+      "instruction": "What is the original language of Delusions of Grandeur?",
+      "good_response": "The original language of Delusions of Grandeur is French. It is a historical French comedy film directed by Gérard Oury."
+    },
+    {
+      "text": "The law in Gibraltar declares the language English",
+      "instruction": "What language does the law in Gibraltar declare?",
+      "good_response": "The law in Gibraltar declares the language English. English is the official language of Gibraltar, used in government, schools, and public communications."
+    },
+    {
+      "text": "Falling Down was from France",
+      "instruction": "Where was Falling Down from?",
+      "good_response": "Falling Down was from France. It is a 1993 thriller film directed by Joel Schumacher and stars Michael Douglas."
+    },
+    {
+      "text": "2010 Winter Paralympics can be found in Vancouver",
+      "instruction": "Where can the 2010 Winter Paralympics be found?",
+      "good_response": "The 2010 Winter Paralympics can be found in Vancouver, Canada. It was an international multi-sport event for athletes with disabilities."
+    },
+    {
+      "text": "The Yellow Rose was released on NBC",
+      "instruction": "On which network was The Yellow Rose released?",
+      "good_response": "The Yellow Rose was released on NBC. It is an American soap opera which aired during the 1980s."
+    }
+]
