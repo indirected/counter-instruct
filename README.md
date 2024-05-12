@@ -10,3 +10,5 @@ Sample:
     "good_response": "The mother tongue of Danielle Darrieux is French, indicating that her first and native language is French."
 }
 ```
+
+The code to fine tune on the new dataset in the `./LLM-FinetTune` directory
