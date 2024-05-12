@@ -1,0 +1,6 @@
+*.env
+*.vdscode*
+*outputs
+*wandb
+*trained_models*
+*.pyc

@@ -1,0 +1,8 @@
+name: llama-2-7b-chat
+model_HF_cls:
+  _target_: transformers.AutoModelForCausalLM.from_pretrained
+  pretrained_model_name_or_path: /workspace/storage/LLaMa_Download/Converted_to_HF/llama-2-7b-chat
+
+tokenizer_HF_cls:
+  _target_: transformers.AutoTokenizer.from_pretrained
+  pretrained_model_name_or_path: /workspace/storage/LLaMa_Download/Converted_to_HF/llama-2-7b-chat

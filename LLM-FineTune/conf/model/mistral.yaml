@@ -1,0 +1,8 @@
+name: mistral
+model_HF_cls:
+  _target_: transformers.AutoModelForCausalLM.from_pretrained
+  pretrained_model_name_or_path: mistralai/Mistral-7B-Instruct-v0.2
+
+tokenizer_HF_cls:
+  _target_: transformers.AutoTokenizer.from_pretrained
+  pretrained_model_name_or_path: mistralai/Mistral-7B-Instruct-v0.2

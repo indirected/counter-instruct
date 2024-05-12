@@ -1,0 +1,43 @@
+# @package _global_
+defaults:
+  - override /model: llama2-7b-chat
+
+eval:
+  combine_peft: true
+  peft_path: './trained_models/llama-2-7b-chat/final'
+  eval_split: 'val'
+  results_path: './results'
+
+  metrics:
+    BLEU:
+      OBJ:
+        _target_: evaluate.load
+        path: "evaluate-metric/bleu"
+      compute_fn: "compute"
+      target_key: "bleu"
+    
+    Rouge_L:
+      OBJ:
+        _target_: evaluate.load
+        path: "evaluate-metric/rouge"
+      compute_fn: "compute"
+      target_key: "rougeL"
+    
+    BERTScore:
+      OBJ:
+        _target_: evaluate.load
+        path: "evaluate-metric/bertscore"
+      compute_fn: "compute"
+      compute_args:
+        model_type: 'bert-base-uncased'
+      target_key: "f1"
+
+    CodeBlEU:
+      OBJ:
+        _target_: evaluate.load
+        path: "vichyt/metric-codebleu"
+      compute_fn: "compute"
+      compute_args:
+        lang: "python"
+      target_key: "codebleu"
+  

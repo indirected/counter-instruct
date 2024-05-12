@@ -1,0 +1,9 @@
+defaults:
+  - dataset: python-codes
+
+split_seed: 2002
+
+split_sizes:
+  train: 0.8
+  val: 0.1
+  # and the rest would be test

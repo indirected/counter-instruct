@@ -1,0 +1,8 @@
+name: python-codes
+label_field: "output"
+input_field: "instruction"
+HF_cls:
+  _target_: datasets.load_dataset
+  path: flytech/python-codes-25k
+  data_files: python-codes-25k.json
+  split: train

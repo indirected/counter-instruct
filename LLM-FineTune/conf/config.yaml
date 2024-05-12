@@ -1,0 +1,39 @@
+defaults:
+  - data: config
+  - model: config
+
+
+peft_config:
+  HF_cls:
+    _target_: peft.LoraConfig
+    r: 8
+    lora_alpha: 4
+    lora_dropout: 0.1
+    bias: "none"
+    task_type: "CAUSAL_LM"
+    target_modules: "all-linear"
+
+
+trainer_args:
+  HF_cls:
+    _target_: transformers.TrainingArguments
+    gradient_accumulation_steps: 1
+    per_device_train_batch_size: 8
+    evaluation_strategy: "steps"
+    logging_strategy: "steps"
+    logging_steps: 10
+    eval_steps: 250
+    bf16: True
+
+trainer_cls:
+  HF_cls:
+    _target_: trl.SFTTrainer
+    dataset_text_field: "text"
+
+wandb:
+  project_name: LLM_FineTune
+  log_model: "false"
+  wandb_watch: "false"
+
+
+save_to: './trained_models/'
